@@ -1,0 +1,31 @@
+*{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #403c3c;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 800px;
+    height: 800px;
+    background-color: #681177;
+    border-radius: 2%;
+    border: 8px, solid, #37aa14;
+}
+
+.centrar-div {
+    width: 150px;
+    height: 150px;
+    border-radius: 4%;
+    background-color: #00ecf9;
+}
